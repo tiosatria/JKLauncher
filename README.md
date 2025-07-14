@@ -1,4 +1,6 @@
 # PES JK Launcher
+Repo for PES JK Launcher. Thanks for the Mr. JK for keeping the patch and content alive!
+
 Quickstart:
 Open the .sln file with Visual Studio — run it, modify it, break it, whatever.
 
@@ -14,3 +16,5 @@ Just crawled back from hiatus — didn’t expect this patch to blow up like thi
 - Infra rework to make collab less annoying
 - Localization (yea, maybe)
 - Responsive UI? Meh, maybe. This patch’s users mostly run laptops with at least 1280x720 anyway.
+
+Will update the roadmap after checking in with Mr. JK, he knows best of what was needed.
